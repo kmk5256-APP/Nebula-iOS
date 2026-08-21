@@ -54,7 +54,7 @@ struct ControlsView: View {
                         }
                     }
                     
-                    // Sli ders
+                    // Sliders
                     VStack(spacing: 16) {
                         SliderRow(title: "Intensity", icon: "flame.fill", value: $store.intensity)
                         SliderRow(title: "Complexity", icon: "square.stack.3d.up.fill", value: $store.complexity)
