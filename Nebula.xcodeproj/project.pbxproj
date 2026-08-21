@@ -134,7 +134,7 @@
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
-			know nRegions = (
+			knownRegions = (
 				en,
 				Base,
 			);
